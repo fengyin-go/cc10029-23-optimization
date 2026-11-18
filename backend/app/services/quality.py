@@ -1,9 +1,14 @@
-"""质量报告 分析看板服务：汇总指标、运行分析并生成模拟结果。"""
+"""质量报告业务规则：指标读取全部走已封存统计快照，不再随机抽样。
+
+旧契约保持不变：``list_results`` / ``run_analysis`` / ``get_entry`` 方法名与返回
+字段沿用，原先每次读取随机生成的指标值改为读取质量指标快照数据集，保证刷新、
+重新进入页面时同一快照结果一致。
+"""
 from __future__ import annotations
 
-import random
 from typing import Any
 
+from app.quality_snapshot import quality_snapshot_service
 from app.store import store
 
 MODULE = "quality"
@@ -15,28 +20,12 @@ NEGATIVE_ACTIONS = ["停用配置"]
 
 class QualityService:
     def list_results(self) -> list[dict[str, Any]]:
-        rows = store.rows(MODULE)
-        results: list[dict] = []
-        for row in rows:
-            d = dict(row)
-            d["指标值"] = round(random.uniform(0.65, 0.98), 3)
-            d["对比基准"] = round(random.uniform(0.60, 0.92), 3)
-            d["差异"] = round(d["指标值"] - d["对比基准"], 3)
-            results.append(d)
-        return results
+        """读取当前数据集/各窗口当前快照的指标记录，确定性结果、无随机抽样。"""
+        return quality_snapshot_service.current_snapshot_rows()
 
     def run_analysis(self, params: dict[str, Any]) -> list[dict[str, Any]]:
-        count = int(params.get("样本范围", params.get("并行数量", "6")))
-        results: list[dict] = []
-        for i in range(count):
-            results.append({
-                "id": i + 1,
-                "分组": f"分组{(i%3)+1}",
-                "指标值": round(random.uniform(0.62, 1.02), 3),
-                "对比基准": round(random.uniform(0.58, 0.95), 3),
-                "差异": round(random.uniform(-0.2, 0.3), 3),
-            })
-        return results
+        """运行分析只消费已封存快照；页面不允许自行补算缺失样本。"""
+        return quality_snapshot_service.run_analysis(params or {})
 
     def get_entry(self, entry_id: int) -> dict[str, Any] | None:
         return store.find(MODULE, entry_id)

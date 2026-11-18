@@ -1,0 +1,2125 @@
+{
+  "samples": [
+    {
+      "id": 1,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "supplement",
+      "value": 0.7619,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 2,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.9757,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 3,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.9552,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 4,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "supplement",
+      "value": 0.8252,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 5,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.9353,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 6,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.8711,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 7,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "supplement",
+      "value": 0.7775,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 8,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.9481,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 9,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.9259,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 10,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "supplement",
+      "value": 0.677,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 11,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.8569,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 12,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.9534,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 13,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "supplement",
+      "value": 0.7357,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 14,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.5728,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 15,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.9026,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 16,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "supplement",
+      "value": 0.9252,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 17,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.671,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 18,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.8218,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 19,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "supplement",
+      "value": 0.7049,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 20,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.8195,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 21,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.7548,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 22,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "supplement",
+      "value": 0.5614,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 23,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.5769,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 24,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.6413,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 25,
+      "window_id": "D-20261117",
+      "period": "daily",
+      "source": "supplement",
+      "value": 0.5912,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 26,
+      "window_id": "D-20261117",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.9151,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 27,
+      "window_id": "D-20261117",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.9718,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 28,
+      "window_id": "D-20261117",
+      "period": "daily",
+      "source": "supplement",
+      "value": 0.6814,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 29,
+      "window_id": "D-20261117",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.6766,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 30,
+      "window_id": "D-20261117",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.7414,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 31,
+      "window_id": "D-20261117",
+      "period": "daily",
+      "source": "supplement",
+      "value": 0.788,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 32,
+      "window_id": "D-20261117",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.7492,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 33,
+      "window_id": "D-20261117",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.9853,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 34,
+      "window_id": "D-20261117",
+      "period": "daily",
+      "source": "supplement",
+      "value": 0.733,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 35,
+      "window_id": "D-20261117",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.5826,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 36,
+      "window_id": "D-20261117",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.9637,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 37,
+      "window_id": "D-20261117",
+      "period": "daily",
+      "source": "supplement",
+      "value": 0.6875,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 38,
+      "window_id": "D-20261117",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.8819,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 39,
+      "window_id": "D-20261117",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.7466,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 40,
+      "window_id": "D-20261117",
+      "period": "daily",
+      "source": "supplement",
+      "value": 0.6195,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 41,
+      "window_id": "D-20261117",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.7642,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 42,
+      "window_id": "D-20261117",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.6435,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 43,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "supplement",
+      "value": 0.6424,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 44,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.9898,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 45,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.8381,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 46,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "supplement",
+      "value": 0.6756,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 47,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.8569,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 48,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.8824,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 49,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "supplement",
+      "value": 0.5665,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 50,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.7444,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 51,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.7106,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 52,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "supplement",
+      "value": 0.7123,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 53,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.6521,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 54,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.8155,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 55,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "supplement",
+      "value": 0.8754,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 56,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.6059,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 57,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.8411,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 58,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "supplement",
+      "value": 0.579,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 59,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.8231,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 60,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.6002,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 61,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "supplement",
+      "value": 0.7425,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 62,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.6895,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 63,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.7361,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 64,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "supplement",
+      "value": 0.5524,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 65,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.6176,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 66,
+      "window_id": "W-202647",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.7489,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 67,
+      "window_id": "W-202646",
+      "period": "weekly",
+      "source": "supplement",
+      "value": 0.9021,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 68,
+      "window_id": "W-202646",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.5638,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 69,
+      "window_id": "W-202646",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.7159,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 70,
+      "window_id": "W-202646",
+      "period": "weekly",
+      "source": "supplement",
+      "value": 0.6121,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 71,
+      "window_id": "W-202646",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.9648,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 72,
+      "window_id": "W-202646",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.632,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 73,
+      "window_id": "W-202646",
+      "period": "weekly",
+      "source": "supplement",
+      "value": 0.9237,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 74,
+      "window_id": "W-202646",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.7049,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 75,
+      "window_id": "W-202646",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.633,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 76,
+      "window_id": "W-202646",
+      "period": "weekly",
+      "source": "supplement",
+      "value": 0.557,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 77,
+      "window_id": "W-202646",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.8437,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 78,
+      "window_id": "W-202646",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.6734,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 79,
+      "window_id": "W-202646",
+      "period": "weekly",
+      "source": "supplement",
+      "value": 0.919,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 80,
+      "window_id": "W-202646",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.7938,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 81,
+      "window_id": "W-202646",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.9707,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 82,
+      "window_id": "W-202646",
+      "period": "weekly",
+      "source": "supplement",
+      "value": 0.6346,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 83,
+      "window_id": "W-202646",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.689,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 84,
+      "window_id": "W-202646",
+      "period": "weekly",
+      "source": "raw",
+      "value": 0.6575,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 85,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "supplement",
+      "value": 0.9015,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 86,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.6064,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 87,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.5769,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 88,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "supplement",
+      "value": 0.9546,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 89,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.7461,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 90,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.8484,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 91,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "supplement",
+      "value": 0.9035,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 92,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.6242,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 93,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.5752,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 94,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "supplement",
+      "value": 0.6708,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 95,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.5931,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 96,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.8451,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 97,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "supplement",
+      "value": 0.7739,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 98,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.8623,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 99,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.6693,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 100,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "supplement",
+      "value": 0.6918,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 101,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.5552,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 102,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.9152,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 103,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "supplement",
+      "value": 0.6217,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 104,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.6537,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 105,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.8026,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 106,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "supplement",
+      "value": 0.8184,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 107,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.6859,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 108,
+      "window_id": "M-202611",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.9635,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 109,
+      "window_id": "M-202610",
+      "period": "monthly",
+      "source": "supplement",
+      "value": 0.7976,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 110,
+      "window_id": "M-202610",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.5761,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 111,
+      "window_id": "M-202610",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.7476,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 112,
+      "window_id": "M-202610",
+      "period": "monthly",
+      "source": "supplement",
+      "value": 0.7072,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 113,
+      "window_id": "M-202610",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.9396,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 114,
+      "window_id": "M-202610",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.8431,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 115,
+      "window_id": "M-202610",
+      "period": "monthly",
+      "source": "supplement",
+      "value": 0.7743,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 116,
+      "window_id": "M-202610",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.721,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 117,
+      "window_id": "M-202610",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.7937,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 118,
+      "window_id": "M-202610",
+      "period": "monthly",
+      "source": "supplement",
+      "value": 0.695,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 119,
+      "window_id": "M-202610",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.7446,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 120,
+      "window_id": "M-202610",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.63,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 121,
+      "window_id": "M-202610",
+      "period": "monthly",
+      "source": "supplement",
+      "value": 0.8351,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 122,
+      "window_id": "M-202610",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.9827,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 123,
+      "window_id": "M-202610",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.7988,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 124,
+      "window_id": "M-202610",
+      "period": "monthly",
+      "source": "supplement",
+      "value": 0.7317,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 125,
+      "window_id": "M-202610",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.9659,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 126,
+      "window_id": "M-202610",
+      "period": "monthly",
+      "source": "raw",
+      "value": 0.7122,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:53:25"
+    },
+    {
+      "id": 127,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.91,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:54:07"
+    },
+    {
+      "id": 128,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.1,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:54:08"
+    },
+    {
+      "id": 129,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.1,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:54:08"
+    },
+    {
+      "id": 130,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.1,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:54:08"
+    },
+    {
+      "id": 131,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.1,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:54:08"
+    },
+    {
+      "id": 132,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.0,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:54:08"
+    },
+    {
+      "id": 133,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.0,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:54:08"
+    },
+    {
+      "id": 134,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.0,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:54:08"
+    },
+    {
+      "id": 135,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.0,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:54:08"
+    },
+    {
+      "id": 136,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.0,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:54:08"
+    },
+    {
+      "id": 137,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.1,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:54:08"
+    },
+    {
+      "id": 138,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.1,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:54:08"
+    },
+    {
+      "id": 139,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "source": "raw",
+      "value": 0.1,
+      "metric_code": null,
+      "ingested_at": "2026-11-18T01:54:09"
+    }
+  ],
+  "windows": {
+    "D-20261118": {
+      "window_id": "D-20261118",
+      "period": "daily",
+      "sample_version": 37,
+      "snapshot_seq": 3,
+      "snapshot_ids": [
+        1,
+        7,
+        8
+      ],
+      "current_snapshot_id": 8,
+      "generating_job_id": null
+    },
+    "D-20261117": {
+      "window_id": "D-20261117",
+      "period": "daily",
+      "sample_version": 18,
+      "snapshot_seq": 1,
+      "snapshot_ids": [
+        2
+      ],
+      "current_snapshot_id": 2,
+      "generating_job_id": null
+    },
+    "W-202647": {
+      "window_id": "W-202647",
+      "period": "weekly",
+      "sample_version": 24,
+      "snapshot_seq": 1,
+      "snapshot_ids": [
+        3
+      ],
+      "current_snapshot_id": 3,
+      "generating_job_id": null
+    },
+    "W-202646": {
+      "window_id": "W-202646",
+      "period": "weekly",
+      "sample_version": 18,
+      "snapshot_seq": 1,
+      "snapshot_ids": [
+        4
+      ],
+      "current_snapshot_id": 4,
+      "generating_job_id": null
+    },
+    "M-202611": {
+      "window_id": "M-202611",
+      "period": "monthly",
+      "sample_version": 24,
+      "snapshot_seq": 1,
+      "snapshot_ids": [
+        5
+      ],
+      "current_snapshot_id": 5,
+      "generating_job_id": null
+    },
+    "M-202610": {
+      "window_id": "M-202610",
+      "period": "monthly",
+      "sample_version": 18,
+      "snapshot_seq": 1,
+      "snapshot_ids": [
+        6
+      ],
+      "current_snapshot_id": 6,
+      "generating_job_id": null
+    }
+  },
+  "snapshots": {
+    "1": {
+      "snapshot_id": 1,
+      "snapshot_no": "SNAP-D-20261118-001",
+      "window_id": "D-20261118",
+      "period": "daily",
+      "window_seq": 1,
+      "status": "SEALED",
+      "sample_count": 24,
+      "sample_version": 24,
+      "generated_at": "2026-11-18T01:53:25",
+      "metric_records": [
+        {
+          "指标编号": "QUAL-0001",
+          "指标名称": "质量报告样例1",
+          "统计口径": "质量报告样例1",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例1",
+          "样本数量": 24,
+          "达标率": 0.875,
+          "指标值": 0.875,
+          "对比基准": 0.8,
+          "差异": 0.075,
+          "达标": true
+        },
+        {
+          "指标编号": "QUAL-0002",
+          "指标名称": "质量报告样例2",
+          "统计口径": "质量报告样例2",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例2",
+          "样本数量": 24,
+          "达标率": 0.875,
+          "指标值": 0.875,
+          "对比基准": 0.8,
+          "差异": 0.075,
+          "达标": true
+        },
+        {
+          "指标编号": "QUAL-0003",
+          "指标名称": "质量报告样例3",
+          "统计口径": "质量报告样例3",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例3",
+          "样本数量": 24,
+          "达标率": 0.875,
+          "指标值": 0.875,
+          "对比基准": 0.8,
+          "差异": 0.075,
+          "达标": true
+        }
+      ]
+    },
+    "2": {
+      "snapshot_id": 2,
+      "snapshot_no": "SNAP-D-20261117-001",
+      "window_id": "D-20261117",
+      "period": "daily",
+      "window_seq": 1,
+      "status": "SEALED",
+      "sample_count": 18,
+      "sample_version": 18,
+      "generated_at": "2026-11-18T01:53:25",
+      "metric_records": [
+        {
+          "指标编号": "QUAL-0001",
+          "指标名称": "质量报告样例1",
+          "统计口径": "质量报告样例1",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例1",
+          "样本数量": 18,
+          "达标率": 0.8889,
+          "指标值": 0.8889,
+          "对比基准": 0.8,
+          "差异": 0.0889,
+          "达标": true
+        },
+        {
+          "指标编号": "QUAL-0002",
+          "指标名称": "质量报告样例2",
+          "统计口径": "质量报告样例2",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例2",
+          "样本数量": 18,
+          "达标率": 0.8889,
+          "指标值": 0.8889,
+          "对比基准": 0.8,
+          "差异": 0.0889,
+          "达标": true
+        },
+        {
+          "指标编号": "QUAL-0003",
+          "指标名称": "质量报告样例3",
+          "统计口径": "质量报告样例3",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例3",
+          "样本数量": 18,
+          "达标率": 0.8889,
+          "指标值": 0.8889,
+          "对比基准": 0.8,
+          "差异": 0.0889,
+          "达标": true
+        }
+      ]
+    },
+    "3": {
+      "snapshot_id": 3,
+      "snapshot_no": "SNAP-W-202647-001",
+      "window_id": "W-202647",
+      "period": "weekly",
+      "window_seq": 1,
+      "status": "SEALED",
+      "sample_count": 24,
+      "sample_version": 24,
+      "generated_at": "2026-11-18T01:53:25",
+      "metric_records": [
+        {
+          "指标编号": "QUAL-0001",
+          "指标名称": "质量报告样例1",
+          "统计口径": "质量报告样例1",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例1",
+          "样本数量": 24,
+          "达标率": 0.875,
+          "指标值": 0.875,
+          "对比基准": 0.8,
+          "差异": 0.075,
+          "达标": true
+        },
+        {
+          "指标编号": "QUAL-0002",
+          "指标名称": "质量报告样例2",
+          "统计口径": "质量报告样例2",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例2",
+          "样本数量": 24,
+          "达标率": 0.875,
+          "指标值": 0.875,
+          "对比基准": 0.8,
+          "差异": 0.075,
+          "达标": true
+        },
+        {
+          "指标编号": "QUAL-0003",
+          "指标名称": "质量报告样例3",
+          "统计口径": "质量报告样例3",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例3",
+          "样本数量": 24,
+          "达标率": 0.875,
+          "指标值": 0.875,
+          "对比基准": 0.8,
+          "差异": 0.075,
+          "达标": true
+        }
+      ]
+    },
+    "4": {
+      "snapshot_id": 4,
+      "snapshot_no": "SNAP-W-202646-001",
+      "window_id": "W-202646",
+      "period": "weekly",
+      "window_seq": 1,
+      "status": "SEALED",
+      "sample_count": 18,
+      "sample_version": 18,
+      "generated_at": "2026-11-18T01:53:25",
+      "metric_records": [
+        {
+          "指标编号": "QUAL-0001",
+          "指标名称": "质量报告样例1",
+          "统计口径": "质量报告样例1",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例1",
+          "样本数量": 18,
+          "达标率": 0.8889,
+          "指标值": 0.8889,
+          "对比基准": 0.8,
+          "差异": 0.0889,
+          "达标": true
+        },
+        {
+          "指标编号": "QUAL-0002",
+          "指标名称": "质量报告样例2",
+          "统计口径": "质量报告样例2",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例2",
+          "样本数量": 18,
+          "达标率": 0.8889,
+          "指标值": 0.8889,
+          "对比基准": 0.8,
+          "差异": 0.0889,
+          "达标": true
+        },
+        {
+          "指标编号": "QUAL-0003",
+          "指标名称": "质量报告样例3",
+          "统计口径": "质量报告样例3",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例3",
+          "样本数量": 18,
+          "达标率": 0.8889,
+          "指标值": 0.8889,
+          "对比基准": 0.8,
+          "差异": 0.0889,
+          "达标": true
+        }
+      ]
+    },
+    "5": {
+      "snapshot_id": 5,
+      "snapshot_no": "SNAP-M-202611-001",
+      "window_id": "M-202611",
+      "period": "monthly",
+      "window_seq": 1,
+      "status": "SEALED",
+      "sample_count": 24,
+      "sample_version": 24,
+      "generated_at": "2026-11-18T01:53:25",
+      "metric_records": [
+        {
+          "指标编号": "QUAL-0001",
+          "指标名称": "质量报告样例1",
+          "统计口径": "质量报告样例1",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例1",
+          "样本数量": 24,
+          "达标率": 0.8333,
+          "指标值": 0.8333,
+          "对比基准": 0.8,
+          "差异": 0.0333,
+          "达标": true
+        },
+        {
+          "指标编号": "QUAL-0002",
+          "指标名称": "质量报告样例2",
+          "统计口径": "质量报告样例2",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例2",
+          "样本数量": 24,
+          "达标率": 0.8333,
+          "指标值": 0.8333,
+          "对比基准": 0.8,
+          "差异": 0.0333,
+          "达标": true
+        },
+        {
+          "指标编号": "QUAL-0003",
+          "指标名称": "质量报告样例3",
+          "统计口径": "质量报告样例3",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例3",
+          "样本数量": 24,
+          "达标率": 0.8333,
+          "指标值": 0.8333,
+          "对比基准": 0.8,
+          "差异": 0.0333,
+          "达标": true
+        }
+      ]
+    },
+    "6": {
+      "snapshot_id": 6,
+      "snapshot_no": "SNAP-M-202610-001",
+      "window_id": "M-202610",
+      "period": "monthly",
+      "window_seq": 1,
+      "status": "SEALED",
+      "sample_count": 18,
+      "sample_version": 18,
+      "generated_at": "2026-11-18T01:53:25",
+      "metric_records": [
+        {
+          "指标编号": "QUAL-0001",
+          "指标名称": "质量报告样例1",
+          "统计口径": "质量报告样例1",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例1",
+          "样本数量": 18,
+          "达标率": 0.9444,
+          "指标值": 0.9444,
+          "对比基准": 0.8,
+          "差异": 0.1444,
+          "达标": true
+        },
+        {
+          "指标编号": "QUAL-0002",
+          "指标名称": "质量报告样例2",
+          "统计口径": "质量报告样例2",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例2",
+          "样本数量": 18,
+          "达标率": 0.9444,
+          "指标值": 0.9444,
+          "对比基准": 0.8,
+          "差异": 0.1444,
+          "达标": true
+        },
+        {
+          "指标编号": "QUAL-0003",
+          "指标名称": "质量报告样例3",
+          "统计口径": "质量报告样例3",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例3",
+          "样本数量": 18,
+          "达标率": 0.9444,
+          "指标值": 0.9444,
+          "对比基准": 0.8,
+          "差异": 0.1444,
+          "达标": true
+        }
+      ]
+    },
+    "7": {
+      "snapshot_id": 7,
+      "snapshot_no": "SNAP-D-20261118-002",
+      "window_id": "D-20261118",
+      "period": "daily",
+      "window_seq": 2,
+      "status": "SEALED",
+      "sample_count": 25,
+      "sample_version": 25,
+      "generated_at": "2026-11-18T01:54:07",
+      "metric_records": [
+        {
+          "指标编号": "QUAL-0001",
+          "指标名称": "质量报告样例1",
+          "统计口径": "质量报告样例1",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例1",
+          "样本数量": 25,
+          "达标率": 0.88,
+          "指标值": 0.88,
+          "对比基准": 0.8,
+          "差异": 0.08,
+          "达标": true
+        },
+        {
+          "指标编号": "QUAL-0002",
+          "指标名称": "质量报告样例2",
+          "统计口径": "质量报告样例2",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例2",
+          "样本数量": 25,
+          "达标率": 0.88,
+          "指标值": 0.88,
+          "对比基准": 0.8,
+          "差异": 0.08,
+          "达标": true
+        },
+        {
+          "指标编号": "QUAL-0003",
+          "指标名称": "质量报告样例3",
+          "统计口径": "质量报告样例3",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例3",
+          "样本数量": 25,
+          "达标率": 0.88,
+          "指标值": 0.88,
+          "对比基准": 0.8,
+          "差异": 0.08,
+          "达标": true
+        }
+      ]
+    },
+    "8": {
+      "snapshot_id": 8,
+      "snapshot_no": "SNAP-D-20261118-003",
+      "window_id": "D-20261118",
+      "period": "daily",
+      "window_seq": 3,
+      "status": "SEALED",
+      "sample_count": 37,
+      "sample_version": 37,
+      "generated_at": "2026-11-18T01:54:09",
+      "metric_records": [
+        {
+          "指标编号": "QUAL-0001",
+          "指标名称": "质量报告样例1",
+          "统计口径": "质量报告样例1",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例1",
+          "样本数量": 37,
+          "达标率": 0.5946,
+          "指标值": 0.5946,
+          "对比基准": 0.8,
+          "差异": -0.2054,
+          "达标": false
+        },
+        {
+          "指标编号": "QUAL-0002",
+          "指标名称": "质量报告样例2",
+          "统计口径": "质量报告样例2",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例2",
+          "样本数量": 37,
+          "达标率": 0.5946,
+          "指标值": 0.5946,
+          "对比基准": 0.8,
+          "差异": -0.2054,
+          "达标": false
+        },
+        {
+          "指标编号": "QUAL-0003",
+          "指标名称": "质量报告样例3",
+          "统计口径": "质量报告样例3",
+          "阈值下界": 0.6,
+          "阈值上界": 1.0,
+          "统计周期": "质量报告样例3",
+          "样本数量": 37,
+          "达标率": 0.5946,
+          "指标值": 0.5946,
+          "对比基准": 0.8,
+          "差异": -0.2054,
+          "达标": false
+        }
+      ]
+    }
+  },
+  "jobs": {
+    "JOB-D-20261118-1": {
+      "job_id": "JOB-D-20261118-1",
+      "window_id": "D-20261118",
+      "period": "daily",
+      "status": "SEALED",
+      "started_at": "2026-11-18T01:54:07",
+      "sealed_snapshot_id": 7,
+      "finished_at": "2026-11-18T01:54:07"
+    },
+    "JOB-D-20261118-2": {
+      "job_id": "JOB-D-20261118-2",
+      "window_id": "D-20261118",
+      "period": "daily",
+      "status": "SEALED",
+      "started_at": "2026-11-18T01:54:09",
+      "sealed_snapshot_id": 8,
+      "finished_at": "2026-11-18T01:54:09"
+    }
+  },
+  "datasets": [
+    {
+      "dataset_id": 1,
+      "version": "QDS-V001",
+      "fingerprint": "38945e764f8ab3f0",
+      "idempotency_key": "ui-daily-7-2",
+      "remark": "",
+      "status": "SEALED",
+      "created_at": "2026-11-18T01:54:07",
+      "entry_count": 2,
+      "entries": [
+        {
+          "window_id": "D-20261118",
+          "period": "daily",
+          "snapshot_id": 7,
+          "snapshot_no": "SNAP-D-20261118-002",
+          "sample_count": 25,
+          "generated_at": "2026-11-18T01:54:07",
+          "metric_records": [
+            {
+              "指标编号": "QUAL-0001",
+              "指标名称": "质量报告样例1",
+              "统计口径": "质量报告样例1",
+              "阈值下界": 0.6,
+              "阈值上界": 1.0,
+              "统计周期": "质量报告样例1",
+              "样本数量": 25,
+              "达标率": 0.88,
+              "指标值": 0.88,
+              "对比基准": 0.8,
+              "差异": 0.08,
+              "达标": true
+            },
+            {
+              "指标编号": "QUAL-0002",
+              "指标名称": "质量报告样例2",
+              "统计口径": "质量报告样例2",
+              "阈值下界": 0.6,
+              "阈值上界": 1.0,
+              "统计周期": "质量报告样例2",
+              "样本数量": 25,
+              "达标率": 0.88,
+              "指标值": 0.88,
+              "对比基准": 0.8,
+              "差异": 0.08,
+              "达标": true
+            },
+            {
+              "指标编号": "QUAL-0003",
+              "指标名称": "质量报告样例3",
+              "统计口径": "质量报告样例3",
+              "阈值下界": 0.6,
+              "阈值上界": 1.0,
+              "统计周期": "质量报告样例3",
+              "样本数量": 25,
+              "达标率": 0.88,
+              "指标值": 0.88,
+              "对比基准": 0.8,
+              "差异": 0.08,
+              "达标": true
+            }
+          ]
+        },
+        {
+          "window_id": "D-20261117",
+          "period": "daily",
+          "snapshot_id": 2,
+          "snapshot_no": "SNAP-D-20261117-001",
+          "sample_count": 18,
+          "generated_at": "2026-11-18T01:53:25",
+          "metric_records": [
+            {
+              "指标编号": "QUAL-0001",
+              "指标名称": "质量报告样例1",
+              "统计口径": "质量报告样例1",
+              "阈值下界": 0.6,
+              "阈值上界": 1.0,
+              "统计周期": "质量报告样例1",
+              "样本数量": 18,
+              "达标率": 0.8889,
+              "指标值": 0.8889,
+              "对比基准": 0.8,
+              "差异": 0.0889,
+              "达标": true
+            },
+            {
+              "指标编号": "QUAL-0002",
+              "指标名称": "质量报告样例2",
+              "统计口径": "质量报告样例2",
+              "阈值下界": 0.6,
+              "阈值上界": 1.0,
+              "统计周期": "质量报告样例2",
+              "样本数量": 18,
+              "达标率": 0.8889,
+              "指标值": 0.8889,
+              "对比基准": 0.8,
+              "差异": 0.0889,
+              "达标": true
+            },
+            {
+              "指标编号": "QUAL-0003",
+              "指标名称": "质量报告样例3",
+              "统计口径": "质量报告样例3",
+              "阈值下界": 0.6,
+              "阈值上界": 1.0,
+              "统计周期": "质量报告样例3",
+              "样本数量": 18,
+              "达标率": 0.8889,
+              "指标值": 0.8889,
+              "对比基准": 0.8,
+              "差异": 0.0889,
+              "达标": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dataset_id": 2,
+      "version": "QDS-V002",
+      "fingerprint": "3cfa0751efc19f0c",
+      "idempotency_key": "ui-daily-8-2",
+      "remark": "",
+      "status": "SEALED",
+      "created_at": "2026-11-18T01:54:09",
+      "entry_count": 2,
+      "entries": [
+        {
+          "window_id": "D-20261118",
+          "period": "daily",
+          "snapshot_id": 8,
+          "snapshot_no": "SNAP-D-20261118-003",
+          "sample_count": 37,
+          "generated_at": "2026-11-18T01:54:09",
+          "metric_records": [
+            {
+              "指标编号": "QUAL-0001",
+              "指标名称": "质量报告样例1",
+              "统计口径": "质量报告样例1",
+              "阈值下界": 0.6,
+              "阈值上界": 1.0,
+              "统计周期": "质量报告样例1",
+              "样本数量": 37,
+              "达标率": 0.5946,
+              "指标值": 0.5946,
+              "对比基准": 0.8,
+              "差异": -0.2054,
+              "达标": false
+            },
+            {
+              "指标编号": "QUAL-0002",
+              "指标名称": "质量报告样例2",
+              "统计口径": "质量报告样例2",
+              "阈值下界": 0.6,
+              "阈值上界": 1.0,
+              "统计周期": "质量报告样例2",
+              "样本数量": 37,
+              "达标率": 0.5946,
+              "指标值": 0.5946,
+              "对比基准": 0.8,
+              "差异": -0.2054,
+              "达标": false
+            },
+            {
+              "指标编号": "QUAL-0003",
+              "指标名称": "质量报告样例3",
+              "统计口径": "质量报告样例3",
+              "阈值下界": 0.6,
+              "阈值上界": 1.0,
+              "统计周期": "质量报告样例3",
+              "样本数量": 37,
+              "达标率": 0.5946,
+              "指标值": 0.5946,
+              "对比基准": 0.8,
+              "差异": -0.2054,
+              "达标": false
+            }
+          ]
+        },
+        {
+          "window_id": "D-20261117",
+          "period": "daily",
+          "snapshot_id": 2,
+          "snapshot_no": "SNAP-D-20261117-001",
+          "sample_count": 18,
+          "generated_at": "2026-11-18T01:53:25",
+          "metric_records": [
+            {
+              "指标编号": "QUAL-0001",
+              "指标名称": "质量报告样例1",
+              "统计口径": "质量报告样例1",
+              "阈值下界": 0.6,
+              "阈值上界": 1.0,
+              "统计周期": "质量报告样例1",
+              "样本数量": 18,
+              "达标率": 0.8889,
+              "指标值": 0.8889,
+              "对比基准": 0.8,
+              "差异": 0.0889,
+              "达标": true
+            },
+            {
+              "指标编号": "QUAL-0002",
+              "指标名称": "质量报告样例2",
+              "统计口径": "质量报告样例2",
+              "阈值下界": 0.6,
+              "阈值上界": 1.0,
+              "统计周期": "质量报告样例2",
+              "样本数量": 18,
+              "达标率": 0.8889,
+              "指标值": 0.8889,
+              "对比基准": 0.8,
+              "差异": 0.0889,
+              "达标": true
+            },
+            {
+              "指标编号": "QUAL-0003",
+              "指标名称": "质量报告样例3",
+              "统计口径": "质量报告样例3",
+              "阈值下界": 0.6,
+              "阈值上界": 1.0,
+              "统计周期": "质量报告样例3",
+              "样本数量": 18,
+              "达标率": 0.8889,
+              "指标值": 0.8889,
+              "对比基准": 0.8,
+              "差异": 0.0889,
+              "达标": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "current_dataset_id": 2,
+  "todos": [
+    {
+      "todo_id": 1,
+      "window_id": "D-20261118",
+      "period": "daily",
+      "snapshot_no": "SNAP-D-20261118-003",
+      "dataset_id": 2,
+      "dataset_version": "QDS-V002",
+      "level": "阻断",
+      "status": "DONE",
+      "detail": {
+        "window_id": "D-20261118",
+        "period": "daily",
+        "snapshot_no": "SNAP-D-20261118-003",
+        "sample_count": 37,
+        "generated_at": "2026-11-18T01:54:09",
+        "abnormal_metrics": [
+          {
+            "指标编号": "QUAL-0001",
+            "达标率": 0.5946,
+            "阈值下界": 0.6,
+            "阈值上界": 1.0
+          },
+          {
+            "指标编号": "QUAL-0002",
+            "达标率": 0.5946,
+            "阈值下界": 0.6,
+            "阈值上界": 1.0
+          },
+          {
+            "指标编号": "QUAL-0003",
+            "达标率": 0.5946,
+            "阈值下界": 0.6,
+            "阈值上界": 1.0
+          }
+        ]
+      },
+      "created_at": "2026-11-18T01:54:09",
+      "finished_at": "2026-11-18T01:54:09"
+    }
+  ],
+  "trend_ledger": [
+    {
+      "ledger_id": 1,
+      "dataset_id": 1,
+      "dataset_version": "QDS-V001",
+      "reason": "DATASET_SUBMITTED",
+      "window_count": 2,
+      "abnormal_window_count": 0,
+      "average_pass_rate": 0.8844,
+      "recorded_at": "2026-11-18T01:54:07"
+    },
+    {
+      "ledger_id": 2,
+      "dataset_id": 2,
+      "dataset_version": "QDS-V002",
+      "reason": "DATASET_SUBMITTED",
+      "window_count": 2,
+      "abnormal_window_count": 1,
+      "average_pass_rate": 0.7418,
+      "recorded_at": "2026-11-18T01:54:09"
+    }
+  ],
+  "writebacks": [
+    {
+      "writeback_id": 1,
+      "todo_id": 1,
+      "window_id": "D-20261118",
+      "dataset_version": "QDS-V002",
+      "rule_id": 1,
+      "rule_code": "VALI-0001",
+      "blocking_items": [
+        {
+          "指标编号": "QUAL-0001",
+          "达标率": 0.5946,
+          "阈值下界": 0.6,
+          "阈值上界": 1.0
+        },
+        {
+          "指标编号": "QUAL-0002",
+          "达标率": 0.5946,
+          "阈值下界": 0.6,
+          "阈值上界": 1.0
+        },
+        {
+          "指标编号": "QUAL-0003",
+          "达标率": 0.5946,
+          "阈值下界": 0.6,
+          "阈值上界": 1.0
+        }
+      ],
+      "written_at": "2026-11-18T01:54:09"
+    }
+  ],
+  "seq": {
+    "sample": 139,
+    "snapshot": 8,
+    "job": 2,
+    "dataset": 2,
+    "todo": 1,
+    "ledger": 2,
+    "writeback": 1
+  }
+}

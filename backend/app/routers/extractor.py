@@ -18,6 +18,14 @@ LIST_FIELDS = ["模板编号", "模板名称", "输入URL", "字段映射", "清
 STATUSES = ["草稿", "待校验", "已启用", "已停用"]
 
 
+def csv_cell(value: Any) -> str:
+    """CSV 单元格转义：防止以公式符号开头的内容被表格软件执行。"""
+    text = str(value) if value is not None else ""
+    if text and text[0] in "=+-@":
+        text = "'" + text
+    return '"' + text.replace('"', '""') + '"'
+
+
 @router.get("")
 def get_graph() -> dict[str, Any]:
     """返回节点与边组成的 DAG 图数据。"""

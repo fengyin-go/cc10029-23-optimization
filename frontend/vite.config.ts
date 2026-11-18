@@ -20,7 +20,10 @@ export default defineConfig({
     open: false,
     strictPort: false,
     proxy: {
-      '/api': {
+      // 用正则锚定上下文：只代理 /api 与 /api/... 本身。
+      // 不能写成字符串 '/api'，Vite 用 startsWith 匹配，会把同样以 "api" 开头的
+      // 前端路由 /apigate 误代理到后端，导致该页面直接收到后端 404。
+      '^/api(?:/|$)': {
         target: proxyTarget,
         changeOrigin: true,
       },

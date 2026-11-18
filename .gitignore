@@ -87,6 +87,8 @@ desktop.ini
 *.db
 *.pid
 *.seed
+# 质量指标快照子系统的运行期持久化状态（JSON 数据文件），不纳入版本库
+backend/data/
 
 # BEGIN S11 LOCAL SNAPSHOT EXCLUSIONS
 **/.git/**
